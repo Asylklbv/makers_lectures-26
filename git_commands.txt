@@ -1,0 +1,15 @@
+sudo a[t install git - установка системы git
+ 
+git --verion - проверка версии
+ 
+git config --global user.name "Your nicnkname"
+git config --global user.email "your email" - настройка имени и почты в системе git
+
+git config --list - проверка настроек 
+
+ssh-keygen - генерация ssh ключа 
+
+cat ~/.ssh/id_rsa.pub - полчение ssh ключа 
+
+
+
